@@ -1,9 +1,8 @@
-# Hi! I'm Edmundo Nuñez 👋  
-Also known online as **TheDereck05**.
+# Hi there, I'm Edmundo Nuñez - aka [TheDereck_05](https://guns.lol/the_dereck)
 
-<div style="margin-top: 50px;">
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-</div>
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 ## 🎓 Computer Science Student
 
