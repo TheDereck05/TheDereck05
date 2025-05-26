@@ -10,7 +10,8 @@ Also known online as **TheDereck05**.
 - 🧠 Always learning: exploring new ideas, improving my graphic and programming skills.
 - 🎯 **Short-term goals**: strengthen my skills in game programming, physics, and logical thinking.
 - 🚀 **Long-term goals**: learn how to use game engines like Unity or Unreal to develop a more ambitious game.
-- 🎮 **Gamer curiosity**: I really enjoy video games in general and understanding the logic behind them. One of my dreams is to create a game like *Hollow Knight*.
+- 🎮 **Gamer curiosity**: I really enjoy video games in general and understanding the logic behind them. One of
+   my dreams is to create a game like *Hollow Knight*.
 
 ---
 
