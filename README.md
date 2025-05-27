@@ -1,10 +1,10 @@
-# Hi there, I'm Edmundo Nuñez - aka [TheDereck_05](https://guns.lol/the_dereck)
+# Hi there, I'm Edmundo Nuñez - aka [TheDereck_05🌐](https://guns.lol/the_dereck)<img width="50px" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Dancing_Red_Parrot.gif/revision/latest?cb=20200226075200" />
 
+
+
+# 🎓 Computer Science Student
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-
-## 🎓 Computer Science Student
 
 - 👾 Indie developer in progress: currently working on a video game built with Python and Pygame.
 - 🎨 Passionate about gameplay mechanics, 2D physics, and interactive visual design.
@@ -16,4 +16,6 @@
 
 ---
 
-Thanks for visiting my profile! 🚀
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
