@@ -24,3 +24,5 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
 <img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="90" hight="200">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nbl2c657sv5hveguty5vlgh7w4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff2a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
