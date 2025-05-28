@@ -73,7 +73,14 @@ Got something on your mind or just wanna hang out and play? Don’t hesitate to 
 </br>
 </br>
 
------
+---
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+---
 Credits: [TheDereck05](https://github.com/TheDereck05)
 
 Last Edited on: 28/05/2025
