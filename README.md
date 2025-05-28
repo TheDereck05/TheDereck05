@@ -15,6 +15,7 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
   of my dreams is to create a game like *Hollow Knight*.
 
 ---
+ 
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -54,10 +55,6 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
   >
 </p>
 
-  
-
-
-
 ---
 # Contact Me<img width="50px" src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" /> :
 
@@ -90,17 +87,19 @@ Got something on your mind or just wanna hang out and play? Don’t hesitate to 
 
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ---
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
+</p>
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/TheDereck05/count.svg" />
 </p>
 
 ---
