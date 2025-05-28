@@ -36,13 +36,13 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
 
 
 ---
-# Contact Me :
+# Contact Me<img width="50px" src="https://media.tenor.com/Zh-kW5K_X0kAAAAi/neko-anime.gif" /> :
 
 <p>
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/TheDereck05/TheDereck05/blob/main/Gif_Icon/Gif_2.gif">
+<img hight="256" width="360" align="right" alt="GIF" src="https://github.com/TheDereck05/TheDereck05/blob/main/Gif_Icon/Gif_2.gif">
 
 
 Got something on your mind or just wanna hang out and play? Don’t hesitate to message me 😉.
