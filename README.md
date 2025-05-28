@@ -26,13 +26,36 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
 
 # Languages & Tools <img width="50px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MwbTFpbzJ3bTVvazVjeTNkNmZic3Y5NnlsOGRqN3BieHliaXpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" /><img width="35px" src="https://i.imgur.com/MDa3BP4.gif" />:
 
+
+
+
 </br>
 
 <p align="center">
+  <img
+    class="badge-icon"
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="python"
+  >
+  <img
+    class="badge-icon"
+    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  >
+  <img
+    class="badge-icon"
+    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
+    alt="visualstudio"
+  >
+  <img
+    class="badge-icon"
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+    alt="windows"
+  >
+</p>
+
   
-<img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/TheDereck05/TheDereck05/blob/53e0a1e7713b1a60530920f52d126f4a7d813553/assets/icons/visualstudio_code.png?raw=true" alt="visualstudio_code" width="90" hight="50">
+
 
 
 ---
