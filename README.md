@@ -48,8 +48,36 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
 Got something on your mind or just wanna hang out and play? Don’t hesitate to message me 😉.
 
 <a href="mailto:952350113ed@gmail.com">
-  <img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/gmail.png" alt="Gmail" style="width: 150px; height: auto;" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
 </a>
+<a href="https://www.linkedin.com/in/edmundo-nuñez-choque-2478b2294/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.instagram.com/nunezgeremy/">
+  <img align="left" alt=" Reddit" width="160" hight="100" src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/instagram_button.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198974257330/">
+  <img align="left" alt="Steam" width="130" hight="100" src="assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+-----
+Credits: [TheDereck05](https://github.com/TheDereck05)
+
+Last Edited on: 28/05/2025
+
 
 
 
