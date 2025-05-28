@@ -16,6 +16,14 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
 
 ---
 
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nbl2c657sv5hveguty5vlgh7w4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff2a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 # Languages & Tools <img width="50px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MwbTFpbzJ3bTVvazVjeTNkNmZic3Y5NnlsOGRqN3BieHliaXpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" /><img width="35px" src="https://i.imgur.com/MDa3BP4.gif" />:
 </br>
 
@@ -23,6 +31,3 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
 <img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="90" hight="200">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nbl2c657sv5hveguty5vlgh7w4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00ff2a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
