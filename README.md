@@ -47,3 +47,9 @@ I am a student at Universidad [San Pablo, Peru🌐](https://maps.app.goo.gl/7rTv
 
 Got something on your mind or just wanna hang out and play? Don’t hesitate to message me 😉.
 
+<a href="mailto:952350113ed@gmail.com">
+  <img src="https://github.com/TheDereck05/TheDereck05/blob/main/assets/icons/gmail.png" alt="Gmail" style="width: 150px; height: auto;" />
+</a>
+
+
+
